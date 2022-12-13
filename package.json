@@ -1,0 +1,23 @@
+{
+  "name": "fourthpointerassessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/app.js -e js,hbs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "build": "^0.1.4",
+    "express": "^4.18.2",
+    "handlebars": "^4.7.7",
+    "hbs": "^4.2.0",
+    "mongoose": "^6.7.3",
+    "nodemon": "^2.0.20",
+    "pug": "^3.0.2"
+  }
+}
