@@ -1,0 +1,10 @@
+<% for(var i = 0; i < transactions.length; i++) { %>
+  <tr>
+      <td><%= i + 1 %></td>
+      <td><%= transactions[i].cust %></td>
+      <td><%= transactions[i].buyorsell %></td>
+      <td><%= transactions[i].option %></td>
+      <td><%= transactions[i].ammount %></td>
+      <td><%= (transactions[i].date) %></td>
+  </tr>
+  <% } %>
