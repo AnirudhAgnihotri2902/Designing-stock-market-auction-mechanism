@@ -43,7 +43,7 @@ I have Used Chart.js to show the data in form of line chart and every value chan
 # Installation:
 1. Clone repository:
 ```bash
-$ git clone https://github.com/AnirudhAgnihotri2902/flexmoney_assessment.git
+$ git clone https://github.com/AnirudhAgnihotri2902/Designing-stock-market-auction-mechanism.git
 ```
 2. Install dependencies:
 ```bas
